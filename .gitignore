@@ -2,3 +2,5 @@ note.ts
 note2.ts
 deploy_url.txt
 node_modules/
+.env
+.vscode/
