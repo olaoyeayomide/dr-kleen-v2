@@ -1,0 +1,912 @@
+[
+  {
+    "query": "A professional cleaner working with cleaning equipment, suitable for hero section",
+    "image_info": {
+      "url": "https://cdn.prod.website-files.com/5f8b9f15be7a6652bd9245ad/65956e0c7a284e01e1b6b5fc_What%20are%20the%20benefits%20of%20a%20professional%20cleaner.jpg",
+      "file_path": "/workspace/imgs/professional_cleaner_with_cleaning_cart_equipment.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 131150,
+      "width": 1000,
+      "height": 667,
+      "total_pixels": 667000,
+      "basic_score": 0.9002469931869063
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image is highly relevant to the search query, depicting a professional cleaner with a full cleaning cart. It boasts excellent clarity, sharpness, and professional composition with good lighting, making it ideal for a hero section. There are no watermarks or distracting elements.",
+      "file_name": "professional_cleaner_with_cleaning_cart_equipment.jpg",
+      "caption": "A professional cleaner, seen from the waist down wearing a blue apron, blue jeans, and yellow gloves, pushes a grey and red cleaning cart filled with various cleaning supplies including bottles, brushes, a duster, and white towels, across a glossy tiled floor against a plain light grey wall.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Beautiful clean bathroom showing cleaning service results",
+    "image_info": {
+      "url": "https://coconutcleaningco.com/wp-content/uploads/2024/06/Untitled-design-7-1024x576.jpg.webp",
+      "file_path": "/workspace/imgs/sparkling-clean-modern-bathroom-interior.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 37986,
+      "width": 1024,
+      "height": 576,
+      "total_pixels": 589824,
+      "basic_score": 0.8822640856170588
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt by showcasing a truly sparkling clean and beautiful modern bathroom. The clarity is excellent, with sharp details and good lighting. There are no watermarks. The composition is well-balanced, highlighting key features like the shower and vanity, making it ideal for demonstrating cleaning service results.",
+      "file_name": "sparkling-clean-modern-bathroom-interior.jpg",
+      "caption": "A bright and sparkling clean modern bathroom featuring light-colored tiled walls and floor, creating a serene and spacious feel. The room includes a sleek glass-enclosed walk-in shower with both a rain shower head and a handheld sprayer. Adjacent to the shower is a contemporary white vanity cabinet with two drawers and a minimalist white sink, topped with a modern chrome faucet. Above the vanity, a large mirror reflects the bright overhead lighting, further illuminating the immaculate space. The entire bathroom appears meticulously maintained, perfectly illustrating the results of a high-quality cleaning service.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Beautiful clean bathroom showing cleaning service results",
+    "image_info": {
+      "url": "https://cdn.shopify.com/s/files/1/0254/0532/5358/files/Eco-Bath-Cleaning_2048x2048.jpg?v=1621075369",
+      "file_path": "/workspace/imgs/sparkling_clean_beautiful_bathroom_interior_design.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 90340,
+      "width": 1350,
+      "height": 650,
+      "total_pixels": 877500,
+      "basic_score": 0.9132294961414006
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting a beautiful and sparkling clean bathroom. It has excellent clarity, no watermarks, and a professional composition with good lighting, making it highly suitable for showing cleaning service results.",
+      "file_name": "sparkling_clean_beautiful_bathroom_interior_design.jpg",
+      "caption": "A spacious and sparkling clean modern bathroom featuring a corner drop-in bathtub with a white tiled surround, a separate glass-enclosed shower, and a dark wood vanity with a white countertop and large mirror. The walls are painted a warm brown, contrasting with the light-colored tiles, and a large window offers a bright view of the outdoors, enhancing the pristine appearance of the room.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Beautiful clean bathroom showing cleaning service results",
+    "image_info": {
+      "url": "https://cleanchaps.com/img/asset/c3BhY2VzL3Bvc3QtaW1hZ2VzL2hvdGVsLTE3MzcxNzFfMTI4MC5qcGc/hotel-1737171_1280.jpg?q=80&w=1000&s=1ee0d4e9416c82a7e3b7e7c5260a8902",
+      "file_path": "/workspace/imgs/sparkling_clean_luxurious_black_marble_bathroom.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 117073,
+      "width": 1000,
+      "height": 673,
+      "total_pixels": 673000,
+      "basic_score": 0.8999343057096846
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing a meticulously clean and luxurious bathroom that appears sparkling due to its reflective surfaces and bright lighting. The clarity, composition, and professional appearance are outstanding, effectively demonstrating the results of a high-quality cleaning service.",
+      "file_name": "sparkling_clean_luxurious_black_marble_bathroom.jpg",
+      "caption": "A wide-angle interior photograph of a luxurious and modern bathroom, impeccably clean and sparkling. The walls and floor are covered in glossy black marble tiles with white veining, reflecting the bright overhead and vertical wall lights. The bathroom features a pristine white toilet, a sleek white double vanity with two sinks and chrome faucets, and a large mirror. A white multi-tiered shelving unit, a patterned black and white stool, and a laundry basket cart contribute to the functional yet stylish design. This image perfectly illustrates the results of a professional cleaning service.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Beautiful clean bathroom showing cleaning service results",
+    "image_info": {
+      "url": "https://hometriangle.com/blogs/content/images/2024/03/professional-bathroom-cleaning.jpg",
+      "file_path": "/workspace/imgs/sparkling_clean_modern_bathroom_sunlit.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 72389,
+      "width": 1200,
+      "height": 660,
+      "total_pixels": 792000,
+      "basic_score": 0.9133990166921322
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 90.0,
+      "clarity_score": 65.0,
+      "watermark_score": 100.0,
+      "overall_score": 70.0,
+      "explanation": "The image is highly relevant, showcasing a clean, modern bathroom that fits the 'beautiful clean bathroom' aspect of the prompt. The strong sun glare creates a literal 'sparkling' effect, aligning with the search query. However, this glare also causes significant overexposure and lens flare, detracting from the overall clarity and professional quality of the image. No watermarks are present.",
+      "file_name": "sparkling_clean_modern_bathroom_sunlit.jpg",
+      "caption": "A bright and meticulously clean modern bathroom, illuminated by strong sunlight streaming through a slatted window. The room features white tiled walls, a sleek white bathtub, a wall-mounted toilet, and a contemporary white vanity with a basin and chrome faucet. The sun's intense glare creates a radiant, 'sparkling' effect across the pristine surfaces, showcasing the results of a thorough cleaning.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional vacuum cleaner and cleaning equipment for product showcase",
+    "image_info": {
+      "url": "https://cdn.thewirecutter.com/wp-content/media/2023/08/upright-carpet-cleaner-2048px-8987-3x2-1.jpg?auto=webp&quality=75&crop=3:2&width=1024",
+      "file_path": "/workspace/imgs/modern_deep_carpet_cleaners_product_showcase.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 46590,
+      "width": 1024,
+      "height": 683,
+      "total_pixels": 699392,
+      "basic_score": 0.9074578599793216
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 85.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image clearly displays two modern deep carpet cleaning machines, which fall under 'cleaning equipment' and are suitable for a 'product showcase'. The image is very clear, well-lit, and professionally composed with no watermarks. Although the query specifies 'vacuum', these are wet cleaners, which is a slight distinction, but they are still a type of cleaning machine.",
+      "file_name": "modern_deep_carpet_cleaners_product_showcase.jpg",
+      "caption": "Two modern deep carpet cleaning machines, one primarily blue and the other white and black, are prominently displayed on a striped blue and white rug. Each machine is accompanied by a bottle of cleaning solution, highlighting their use for professional and thorough floor cleaning in a product showcase setting.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional vacuum cleaner and cleaning equipment for product showcase",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/51Q+kOQ9ooL._UF894,1000_QL80_.jpg",
+      "file_path": "/workspace/imgs/professional_commercial_carpet_extractor_wet_vacuum.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 38976,
+      "width": 894,
+      "height": 894,
+      "total_pixels": 799236,
+      "basic_score": 0.908049132242611
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image perfectly matches the prompt for a professional product showcase of modern cleaning equipment. It clearly depicts a professional-grade wet vacuum/carpet extractor, which falls under 'cleaning equipment' and 'vacuum cleaner' in a professional context. The image is highly clear, well-lit, and presented on a clean white background, making it ideal for commercial use with no watermarks.",
+      "file_name": "professional_commercial_carpet_extractor_wet_vacuum.jpg",
+      "caption": "A modern, professional-grade commercial carpet and upholstery extractor, also known as a wet vacuum cleaner, in a striking black and blue design. This powerful cleaning equipment features a corrugated hose with a clear-headed wand for deep cleaning and is mounted on robust caster wheels for easy mobility, showcased on a pristine white background ideal for product presentation.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional vacuum cleaner and cleaning equipment for product showcase",
+    "image_info": {
+      "url": "https://media1.thehungryjpeg.com/thumbs2/ori_3908298_d0sut60qy9yoy2560gvhudtvfflx2cyk3n7bbqmz_vacuum-cleaner-realistic-equipment-for-cleaning-service-modern-automa.jpg",
+      "file_path": "/workspace/imgs/modern_vacuum_cleaners_cleaning_equipment_showcase.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 43638,
+      "width": 800,
+      "height": 800,
+      "total_pixels": 640000,
+      "basic_score": 0.8828611265396441
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 93.0,
+      "explanation": "The image is exceptionally relevant to the search query and prompt, featuring multiple modern vacuum cleaner types suitable for a product showcase. Its clarity is outstanding as a vector illustration, and it contains no watermarks, making it highly professional and versatile.",
+      "file_name": "modern_vacuum_cleaners_cleaning_equipment_showcase.jpg",
+      "caption": "A clean, modern illustration showcasing various types of vacuum cleaners on a stark white background, ideal for a product catalog or cleaning equipment display. The collection includes a sleek black robot vacuum, a compact handheld vacuum, a traditional red and black canister vacuum with a hose and floor attachment, and a green and black upright stick vacuum, representing diverse solutions for contemporary cleaning needs.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional vacuum cleaner and cleaning equipment for product showcase",
+    "image_info": {
+      "url": "https://www.kirby.com/wp-content/uploads/2024/09/clean-mattress-kirby.jpg",
+      "file_path": "/workspace/imgs/professional_kirby_vacuum_bed_cleaning.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 40198,
+      "width": 1000,
+      "height": 1000,
+      "total_pixels": 1000000,
+      "basic_score": 0.9209579861521654
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 88.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant, depicting a professional-grade vacuum cleaner clearly being used as cleaning equipment for a product showcase. The clarity is excellent with sharp details and good lighting. There are no watermarks. The overall composition and quality are very professional. The only minor point is that the 'Kirby' design, while robust and high-end, might not align with everyone's interpretation of 'modern' sleek aesthetics, but it is certainly effective cleaning equipment.",
+      "file_name": "professional_kirby_vacuum_bed_cleaning.jpg",
+      "caption": "A person demonstrates the use of a professional-grade, chrome Kirby vacuum cleaner on a striped mattress, highlighting its deep cleaning capabilities for upholstery and bedding. The powerful vacuum features a prominent Kirby logo and an integrated headlight, emphasizing its design for thorough and efficient home maintenance.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional vacuum cleaner and cleaning equipment for product showcase",
+    "image_info": {
+      "url": "https://gomadss.com/wp-content/uploads/2022/10/modern-cleaning-tool-1.jpg",
+      "file_path": "/workspace/imgs/woman-vacuuming-living-room-modern-cleaner.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 173619,
+      "width": 1500,
+      "height": 1000,
+      "total_pixels": 1500000,
+      "basic_score": 0.88397985642033
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 75.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is of high professional quality, excellent clarity, and contains no watermarks. It features a modern vacuum cleaner and a person cleaning, which aligns with 'modern cleaning equipment vacuum.' However, it leans more towards a domestic consumer product rather than a 'professional vacuum cleaner' intended for a formal 'product showcase' as suggested by the prompt, which slightly impacts relevance. The setting is a home living room rather than a studio showcase.",
+      "file_name": "woman-vacuuming-living-room-modern-cleaner.jpg",
+      "caption": "A smiling young woman, dressed in a plaid shirt and jeans with headphones around her neck, gives a thumbs up while confidently standing with one foot on a blue and white canister vacuum cleaner. She holds the vacuum hose, which extends to a grey shag rug. The scene is set in a modern living room featuring a stylish fireplace with stacked firewood, a comfortable beige sofa, and concrete-textured walls, creating a cozy and clean domestic atmosphere.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional cleaning service team at work for company showcase",
+    "image_info": {
+      "url": "https://learn.sweptworks.com/hubfs/Managing%20Cleaning%20Team.jpg",
+      "file_path": "/workspace/imgs/professional_cleaning_service_team_office_showcase.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 118080,
+      "width": 1200,
+      "height": 720,
+      "total_pixels": 864000,
+      "basic_score": 0.9244564148943842
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting a professional and diverse cleaning service team with their tools in a clean, well-lit setting. The clarity is excellent, and there are no watermarks. The composition and overall presentation are highly professional.",
+      "file_name": "professional_cleaning_service_team_office_showcase.jpg",
+      "caption": "A diverse and professional team of five cleaning service employees, including men and women, stands smiling and ready for work in a bright office environment. They are dressed in matching beige and brown aprons, white t-shirts, and blue protective gloves, holding various cleaning tools like mops, buckets, spray bottles, and sponges, ideal for showcasing a reliable cleaning company.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional cleaning service team at work for company showcase",
+    "image_info": {
+      "url": "https://www.cleannationco.com/wp-content/uploads/2021/02/house-cleaning-team.jpg",
+      "file_path": "/workspace/imgs/professional-cleaning-service-team-working-indoors.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 553179,
+      "width": 1000,
+      "height": 667,
+      "total_pixels": 667000,
+      "basic_score": 0.9326917316852751
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is perfectly relevant to the search query and prompt, clearly showing a professional cleaning service team at work in a domestic or office setting. It exhibits excellent clarity, composition, and lighting, with no watermarks. The uniform attire of the cleaners enhances the 'professional' aspect requested.",
+      "file_name": "professional-cleaning-service-team-working-indoors.jpg",
+      "caption": "Three professional cleaning service team members, dressed in matching green overalls, white t-shirts, and yellow gloves, diligently perform various cleaning tasks inside a bright, modern space. In the foreground, a woman cleans a white table with a spray bottle and cloth, while a man in the mid-ground mops a wooden floor with a blue mop and bucket. Another team member is visible in the background, cleaning a large window, showcasing comprehensive cleaning services.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional cleaning service team at work for company showcase",
+    "image_info": {
+      "url": "https://www.stathakis.com/hs-fs/hubfs/cleaning-team-more-efficient.png?width=837&height=554&name=cleaning-team-more-efficient.png",
+      "file_path": "/workspace/imgs/professional_cleaning_service_team_thumbs_up.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 289496,
+      "width": 837,
+      "height": 554,
+      "total_pixels": 463698,
+      "basic_score": 0.876936259401027
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant to both the search query and prompt, depicting a professional cleaning service team with a positive attitude, ideal for a company showcase. The image is clear, well-lit, and free of watermarks, contributing to its high overall quality.",
+      "file_name": "professional_cleaning_service_team_thumbs_up.jpg",
+      "caption": "Three smiling, professional cleaners, two women and one man, wearing green aprons and gloves, give a thumbs-up gesture in an office setting. They are holding cleaning tools (vacuum hose and mop), signifying their readiness for work. This image is perfect for showcasing a reliable and friendly cleaning service.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional cleaning service team at work for company showcase",
+    "image_info": {
+      "url": "https://blog.ezclocker.com/wp-content/uploads/2021/05/training-cleaning-staff-1024x683.jpg",
+      "file_path": "/workspace/imgs/professional-diverse-cleaning-service-team.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 113788,
+      "width": 1024,
+      "height": 683,
+      "total_pixels": 699392,
+      "basic_score": 0.904648106522125
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant, depicting a diverse team of professional cleaners with their equipment, perfectly aligning with the 'professional cleaning service team' and 'company showcase' aspects of the prompt. The clarity is excellent, with sharp details and good lighting. There are no watermarks. The overall composition, subject posing, and professional appearance contribute to a very high-quality image suitable for its intended purpose.",
+      "file_name": "professional-diverse-cleaning-service-team.jpg",
+      "caption": "A diverse and friendly team of six professional cleaners, comprising both men and women, wearing matching blue polo shirts and jeans, smiling confidently at the camera. They are holding various cleaning tools including a vacuum cleaner, spray bottles, and a mop/broom handle. The group stands against a plain white background, appearing to be in a modern office or commercial setting with a glass partition visible to the left, ideal for a company showcase.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A clean, modern logo for Dr. Kleen cleaning service with professional appearance",
+    "image_info": {
+      "url": "http://cinco-creative.myshopify.com/cdn/shop/files/CleanTouch-Services-Logo-8_844c0071-9443-46fa-8922-51e1a331d2af.jpg?v=1712791363",
+      "file_path": "/workspace/imgs/modern-3d-house-cleaning-service-logo.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 297782,
+      "width": 1512,
+      "height": 1075,
+      "total_pixels": 1625400,
+      "basic_score": 0.8706067403925042
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image is highly relevant as a clean, modern, and professional logo for a cleaning service, perfectly matching the aesthetic and professional appearance requirements of the prompt and search query. It features excellent clarity and no watermarks, contributing to its high overall quality and polished appearance, even though the specific business name 'Dr. Kleen' is not present.",
+      "file_name": "modern-3d-house-cleaning-service-logo.jpg",
+      "caption": "A modern 3D rendered logo for 'The Clean Touch House Cleaning' service, set against a dark, textured background. The logo design incorporates a stylized house roof outline in light blue and white, with cleaning tools like a squeegee, spray bottle, and scrub brush integrated into the roof peaks. The company name 'THE CLEAN TOUCH' is prominently displayed in bold, light blue 3D letters, with 'HOUSE CLEANING' in smaller, white 3D letters beneath. The overall aesthetic is clean, professional, and polished, emphasizing reliability and a modern approach.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional clean modern office space for office cleaning service",
+    "image_info": {
+      "url": "https://www.saraceninteriors.com/hubfs/Untitled%20design%20%2820%29-1.png",
+      "file_path": "/workspace/imgs/professional-modern-clean-office-space.jpg",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 968424,
+      "width": 940,
+      "height": 788,
+      "total_pixels": 740720,
+      "basic_score": 0.9335350895932509
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant to the search query and prompt, showcasing a professional, clean, and modern open-plan office space. The clarity is excellent, and there are no watermarks or distracting elements. It perfectly conveys the desired aesthetic for an office cleaning service.",
+      "file_name": "professional-modern-clean-office-space.jpg",
+      "caption": "A bright and professional open-plan office space featuring multiple white desks, ergonomic office chairs, and computer monitors. The modern interior is well-lit by large windows with horizontal blinds, showcasing a very clean and organized environment ideal for an office cleaning service.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional clean modern office space for office cleaning service",
+    "image_info": {
+      "url": "https://downtownwindowcleaning.com/wp-content/uploads/2022/06/people-cleaning-an-office-1-1024x683.jpg",
+      "file_path": "/workspace/imgs/professional_office_cleaning_service_modern_space.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 101694,
+      "width": 1024,
+      "height": 683,
+      "total_pixels": 699392,
+      "basic_score": 0.9033846717402446
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant, depicting a professional cleaning service in action within a modern, clean office space, directly addressing the prompt. It's clear, well-lit, and free of watermarks, making it an excellent visual for promoting cleaning services.",
+      "file_name": "professional_office_cleaning_service_modern_space.jpg",
+      "caption": "Two professional cleaners in uniforms and gloves are meticulously cleaning a bright, modern open-plan office. One cleaner uses a wet vacuum cleaner on the light brown wooden floor, while another cleaner in the background wipes down a desk surface near computer monitors. The office features white walls, contemporary desks, and office chairs, with a green plant adding a touch of decor, signifying a well-maintained and hygienic work environment.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional clean modern office space for office cleaning service",
+    "image_info": {
+      "url": "https://crewcare.co.nz/admin_assets/blog/assigned-office-space-clean.jpg",
+      "file_path": "/workspace/imgs/professional_modern_clean_office_space.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 132928,
+      "width": 1145,
+      "height": 696,
+      "total_pixels": 796920,
+      "basic_score": 0.9170011184359073
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is exceptionally relevant to both the search query and the prompt, perfectly showcasing a professional, clean, and modern office space suitable for an office cleaning service advertisement. The clarity, lighting, and composition are excellent, with no visible watermarks.",
+      "file_name": "professional_modern_clean_office_space.jpg",
+      "caption": "A bright, professional, and impeccably clean modern office space featuring multiple white desks with black ergonomic chairs, Apple iMac computers, and large floor-to-ceiling windows on the right side allowing abundant natural light. The office has light gray carpeting, white walls, and a large black shelving unit with a television in the background. A green potted plant sits on the window sill, adding a touch of nature. The space is uncluttered and highly organized, ideal for a productive work environment.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional clean modern office space for office cleaning service",
+    "image_info": {
+      "url": "https://www.bbcleaningservice.com/wp-content/uploads/2024/08/clean-black-white-office-space-chair-desks.jpg",
+      "file_path": "/workspace/imgs/clean_modern_professional_office_space.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 99943,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.929902234170425
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is exceptionally relevant to both the search query and the prompt, perfectly depicting a clean, modern, and professional office space. It is clear, well-lit, and composed, with no visible watermarks, making it ideal for showcasing an office cleaning service's desired outcome.",
+      "file_name": "clean_modern_professional_office_space.jpg",
+      "caption": "A wide view of a meticulously clean and modern open-plan office, featuring rows of white desks with ergonomic black chairs, dark tiled flooring, and a dark blue textured accent wall. The space is well-lit by modern ceiling fixtures, showcasing a tidy and professional environment suitable for an office cleaning service's portfolio.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional clean modern office space for office cleaning service",
+    "image_info": {
+      "url": "https://steamproinc.com/wp-content/uploads/2018/01/carpet_cleaning_office.png",
+      "file_path": "/workspace/imgs/professional_clean_modern_office_space_cubicles.jpg",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 433523,
+      "width": 1500,
+      "height": 1026,
+      "total_pixels": 1539000,
+      "basic_score": 0.8824869222199536
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly matches the search query and prompt by displaying a highly clean, professional, and modern office space with cubicles. The clarity is excellent, and there are no watermarks. The composition effectively conveys a tidy and well-maintained environment, making it ideal for an office cleaning service advertisement.",
+      "file_name": "professional_clean_modern_office_space_cubicles.jpg",
+      "caption": "A bright and professional modern office space featuring multiple rows of neat cubicles, each equipped with comfortable blue ergonomic office chairs and clean, light-colored desks. Lush green potted plants are placed atop the cubicle dividers, adding a touch of freshness. The clean blue carpeted aisle leads towards large windows, allowing natural light to illuminate the area, conveying a well-maintained and organized work environment.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional window cleaner working on commercial building windows",
+    "image_info": {
+      "url": "https://windowcleaner.com/cdn/shop/files/window-cleaning-boab-belt.jpg?v=1699302506&width=1500",
+      "file_path": "/workspace/imgs/professional_window_cleaner_on_ladder_residential.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 142650,
+      "width": 800,
+      "height": 800,
+      "total_pixels": 640000,
+      "basic_score": 0.903546450221765
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 85.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image clearly depicts a professional window cleaner using appropriate tools on a ladder. It is highly relevant to the 'window cleaning professional' aspect of the query. Clarity is excellent, and there are no watermarks. The primary discrepancy is that the building appears to be residential or a small commercial structure rather than a large commercial building as specified in the prompt. There is also a strong lens flare, but it does not detract significantly from the main subject.",
+      "file_name": "professional_window_cleaner_on_ladder_residential.jpg",
+      "caption": "A male window cleaning professional, dressed in a tank top, shorts, and a cap, actively cleans a window on a residential or small commercial building while positioned on a ladder. He is applying suds to the glass with a long-handled wash applicator. The building features dark brown wooden siding, and bright sunlight from above creates a noticeable lens flare. A blue tool pouch can be seen hanging from his belt.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional window cleaner working on commercial building windows",
+    "image_info": {
+      "url": "https://s1.kaercher-media.com/media/image/selection/130102/m2/glasfassadenreinigung.webp",
+      "file_path": "/workspace/imgs/professional_commercial_window_cleaning.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 63068,
+      "width": 800,
+      "height": 800,
+      "total_pixels": 640000,
+      "basic_score": 0.8950293302622235
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches both the search query and the prompt, clearly showing a professional window cleaner using specialized equipment on a modern commercial building. The clarity, composition, and lighting are excellent, with no watermarks or logos.",
+      "file_name": "professional_commercial_window_cleaning.jpg",
+      "caption": "A skilled professional window cleaner, dressed in a black uniform and gloves, expertly uses a long water-fed pole system to clean the large, angular glass panels of a modern commercial building. Shot from a low angle, the image highlights the specialized equipment and the dynamic task, with lush green foliage in the foreground adding depth to the scene under a cloudy sky.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional window cleaner working on commercial building windows",
+    "image_info": {
+      "url": "https://www.mywindowwashing.com/blog/wp-content/uploads/window-washing-safety.jpg",
+      "file_path": "/workspace/imgs/professional-window-cleaner-commercial-building-cleaning.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 220778,
+      "width": 724,
+      "height": 483,
+      "total_pixels": 349692,
+      "basic_score": 0.8261617006244563
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 90.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant, depicting a professional window cleaner actively at work with appropriate tools. The 'commercial building' aspect is reasonably represented, as the building type could easily be a commercial property. The clarity, lighting, and composition are excellent, with no watermarks.",
+      "file_name": "professional-window-cleaner-commercial-building-cleaning.jpg",
+      "caption": "A professional male window cleaner, wearing a blue uniform and baseball cap, uses a squeegee and scrubber to clean the large glass windows of a modern commercial or residential building on a clear, bright day. The reflection of the cleaner and the sky are visible on the wet window surface.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional window cleaner working on commercial building windows",
+    "image_info": {
+      "url": "https://www.bondcleaningincanberra.com.au/wp-content/uploads/2019/12/windowcleaningservices-main_orig-1.jpg",
+      "file_path": "/workspace/imgs/professional-window-cleaner-residential-glass.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 68310,
+      "width": 800,
+      "height": 474,
+      "total_pixels": 379200,
+      "basic_score": 0.8146180376477906
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 85.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant to 'window cleaning professional' as it clearly shows a person using professional tools to clean a window. The clarity, lighting, and composition are excellent, with no watermarks. However, the setting appears to be a residential sunroom or large window rather than a distinct 'commercial building', slightly reducing its perfect fit for the prompt, but it remains a high-quality image for the general query.",
+      "file_name": "professional-window-cleaner-residential-glass.jpg",
+      "caption": "A professional window cleaner, viewed from behind, meticulously cleans a large glass panel or conservatory window with a squeegee, leaving traces of foam. The clear blue sky with soft white clouds is visible through the upper, already cleaned section of the glass, while reflections of residential rooftops are visible below. The cleaner is dressed in a black t-shirt and grey work trousers, demonstrating efficient work.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional cleaning supplies and products arrangement",
+    "image_info": {
+      "url": "https://hips.hearstapps.com/hmg-prod/images/house-cleaning-product-on-wood-table-royalty-free-image-1584643103.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=1200:*",
+      "file_path": "/workspace/imgs/colorful_professional_cleaning_supplies_flat_lay.jpg",
+      "img_format": "AVIF",
+      "mode": "RGB",
+      "file_size": 203863,
+      "width": 1200,
+      "height": 1197,
+      "total_pixels": 1436400,
+      "basic_score": 0.8934674775927711
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly relevant to the search query and prompt, showcasing a professional and well-arranged assortment of cleaning supplies. The clarity is excellent, and there are no watermarks. The overall composition and quality are very high.",
+      "file_name": "colorful_professional_cleaning_supplies_flat_lay.jpg",
+      "caption": "A vibrant flat lay composition featuring a diverse array of colorful cleaning supplies and products, including various bottles of detergents and sprays, rubber gloves, microfiber dusters, a scrub brush, and a natural fiber broom. The items are neatly arranged on a rustic wooden background, presented from a top-down view, highlighting tools essential for household cleaning and hygiene.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional cleaning supplies and products arrangement",
+    "image_info": {
+      "url": "https://dam.thdstatic.com/content/production/CUkOqZeFkR3zm_t9L2bn-g/FYuISgWW2hxUnojrFX-L2g/Original%20file/JUNE12-HERO-Cleaning-Subscription-IMG.png",
+      "file_path": "/workspace/imgs/professional_household_cleaning_products_arrangement_kitchen.jpg",
+      "img_format": "AVIF",
+      "mode": "RGB",
+      "file_size": 41433,
+      "width": 1472,
+      "height": 828,
+      "total_pixels": 1218816,
+      "basic_score": 0.9230562039460852
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is highly relevant, perfectly matching the search query for cleaning supplies and demonstrating a professional arrangement of products. It exhibits excellent clarity with all product details clearly visible and no watermarks. The composition and lighting are professional, contributing to a high overall quality.",
+      "file_name": "professional_household_cleaning_products_arrangement_kitchen.jpg",
+      "caption": "A well-lit, professional product photograph displaying a variety of popular household cleaning supplies neatly arranged on a modern kitchen countertop. The selection includes HDX Tall Kitchen 13 Gallon Drawstring Bags, an Ecolab Heavy Duty Citrus Degreaser & Cleaner spray bottle, a tub of The Pink Stuff cleaning paste, a large pack of Bounty paper towels, a container of Clorox Disinfecting Wipes, and a bottle of Dawn Platinum Plus Powerwash dish spray. The background features a blurred view of a kitchen sink, gold faucet, and dark cabinetry, providing a clean, domestic setting for the products.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional cleaning supplies and products arrangement",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/61mDkgwRecL.jpg",
+      "file_path": "/workspace/imgs/organized_professional_cleaning_supplies_caddy.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 91914,
+      "width": 1500,
+      "height": 1500,
+      "total_pixels": 2250000,
+      "basic_score": 0.6550367519253237
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant to the search query, clearly showing an arrangement of cleaning supply products. Its clarity, lighting, and composition are excellent, making it a professional-grade product shot with no watermarks.",
+      "file_name": "organized_professional_cleaning_supplies_caddy.jpg",
+      "caption": "A light blue plastic cleaning caddy, designed for easy portability and organization, is neatly filled with a variety of household cleaning supplies. The caddy holds multiple white spray bottles with red and blue nozzles, a light blue window squeegee, a blue scrubbing brush, and other clear and dark-colored cleaning solution bottles, one with a pump dispenser. The items are arranged efficiently within the caddy, set against a pristine white background, emphasizing a clean and organized approach to cleaning tasks.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional cleaning supplies and products arrangement",
+    "image_info": {
+      "url": "https://i0.wp.com/rdomaha.org/wp-content/uploads/2019/12/Copy-of-Cleaning-Kit.jpg?resize=663%2C1024&ssl=1",
+      "file_path": "/workspace/imgs/professional-household-cleaning-kit-arrangement.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 38618,
+      "width": 663,
+      "height": 1024,
+      "total_pixels": 678912,
+      "basic_score": 0.8864258763953182
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant to 'cleaning supply products' and effectively demonstrates a 'professional cleaning supplies and products arrangement' through its clear, organized grid layout. All items are sharply in focus with excellent lighting, making product labels and details easily readable. There are no watermarks. The overall presentation is clean, functional, and aesthetically pleasing for an informational graphic.",
+      "file_name": "professional-household-cleaning-kit-arrangement.jpg",
+      "caption": "A well-organized photographic grid showcasing a comprehensive household cleaning kit. The arrangement features twelve distinct cleaning essentials, including various spray and liquid cleaners (such as Lysol Kitchen Cleaner, Comet Bathroom Cleaner, Simple Green All-Purpose Cleaner, Shout Stove Cleaner, Clorox Toilet Bowl Cleaner, and Windex Glass Cleaner), along with essential tools like green and yellow sponges, metal pads, bright yellow reusable gloves, SOS steel wool pads, neatly folded white cleaning rags, and white Magic Erasers. Each item is clearly labeled, providing a practical visual guide to common cleaning supplies.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional cleaning supplies and products arrangement",
+    "image_info": {
+      "url": "https://i.ebayimg.com/images/g/V8IAAOSwQ1djvLTc/s-l1200.jpg",
+      "file_path": "/workspace/imgs/household_cleaning_products_haul.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 365708,
+      "width": 860,
+      "height": 1038,
+      "total_pixels": 892680,
+      "basic_score": 0.9320103361775455
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 75.0,
+      "explanation": "The image is highly relevant, clearly displaying a variety of common household cleaning supplies and personal care products. Clarity is excellent with good lighting and readable labels. There are no watermarks. However, the arrangement appears more like a casual shopping haul than a curated 'professional arrangement,' and the background is slightly distracting. The products are consumer household items, not commercial-grade professional supplies, which slightly deviates from a strict interpretation of 'professional cleaning supplies.'",
+      "file_name": "household_cleaning_products_haul.jpg",
+      "caption": "A well-lit, eye-level photograph showcases a collection of various common household cleaning supplies and personal care products neatly arranged on a wooden floor. Products include Tide laundry pods, Arm & Hammer Oxi Clean detergent, Downy liquid fabric softener, Snuggle dryer sheets, Lysol disinfecting spray, Ajax dish soap, multiple rolls of paper towels, Colgate toothpaste, and Febreze air freshener. A black gift bag with a white snowflake design is partially visible in the background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional carpet cleaning in action showing deep cleaning process",
+    "image_info": {
+      "url": "https://b771135.smushcdn.com/771135/wp-content/uploads/2017/06/Steam-Source-infographic-approved.jpg?lossy=1&strip=0&webp=1",
+      "file_path": "/workspace/imgs/professional-carpet-cleaning-10-step-process-infographic.jpg",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 98006,
+      "width": 850,
+      "height": 1276,
+      "total_pixels": 1084600,
+      "basic_score": 0.9113707171625588
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 95.0,
+      "watermark_score": 90.0,
+      "overall_score": 92.0,
+      "explanation": "The image is a highly relevant and clear infographic detailing a 10-step professional carpet cleaning process, directly matching the search query and prompt. The presence of company branding and contact information is expected for such a business-oriented graphic and is not considered a distracting watermark. The overall design and informational content are excellent.",
+      "file_name": "professional-carpet-cleaning-10-step-process-infographic.jpg",
+      "caption": "An infographic from Steam Source detailing their 10-step professional carpet cleaning process, featuring icons and descriptions for each stage, including pre-inspection, pre-vacuum, moving furniture, pre-spray and spot treat, extraction and rinse, post-spot treatment, protector and deodorizer, speed dry, grooming, and final inspection. The graphic provides a visual overview of a deep cleaning service and includes company contact information.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional carpet cleaning in action showing deep cleaning process",
+    "image_info": {
+      "url": "https://chetscleaning.com/wp-content/uploads/Carpet-cleaning-1-1024x683.jpg",
+      "file_path": "/workspace/imgs/professional_carpet_deep_cleaning_in_action.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 112943,
+      "width": 1024,
+      "height": 683,
+      "total_pixels": 699392,
+      "basic_score": 0.9045602887447235
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is perfectly aligned with both the search query and prompt, clearly depicting a professional deep carpet cleaning process with a visible clean strip. It is highly clear, well-composed, and free of watermarks, making it an excellent visual representation of the service.",
+      "file_name": "professional_carpet_deep_cleaning_in_action.jpg",
+      "caption": "A professional carpet cleaner, dressed in blue uniform and protective shoe covers, operates a hot water extraction machine on a grey carpet in a residential living room. The image prominently features the cleaning head of the machine, with a distinct clean strip visible on the carpet, demonstrating the effectiveness of the deep cleaning process.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional kitchen deep cleaning service in progress",
+    "image_info": {
+      "url": "https://mastercleaners.com.au/wp-content/uploads/2020/04/bigstock-Sanitary-Day-In-The-Restaurant-316095811.jpg",
+      "file_path": "/workspace/imgs/professional_kitchen_hood_deep_cleaning_service.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 514066,
+      "width": 900,
+      "height": 600,
+      "total_pixels": 540000,
+      "basic_score": 0.9035235577637649
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, showing a professional chef actively engaged in deep cleaning a commercial kitchen hood. The clarity is excellent, with good lighting and sharp details. There are no watermarks. The composition is strong, making it a highly professional and relevant image.",
+      "file_name": "professional_kitchen_hood_deep_cleaning_service.jpg",
+      "caption": "A male chef wearing a white uniform and toque is diligently deep cleaning a stainless steel commercial kitchen range hood. He is using sponges and cleaning solution, generating white foam and dripping water, highlighting the thoroughness of the cleaning process in a professional restaurant kitchen setting.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional kitchen deep cleaning service in progress",
+    "image_info": {
+      "url": "https://realworldcleaningservices.com/media/images/imported/2024/04/how-do-you-deep-clean-a-kitchen-step-by-step-1.jpg",
+      "file_path": "/workspace/imgs/professional-kitchen-deep-cleaning-service.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 38307,
+      "width": 1000,
+      "height": 667,
+      "total_pixels": 667000,
+      "basic_score": 0.8902490758272599
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 98.0,
+      "watermark_score": 100.0,
+      "overall_score": 97.0,
+      "explanation": "The image perfectly matches the search query and prompt, showing a professional-looking person actively engaged in cleaning a kitchen. The clarity is excellent, with no visible watermarks, and the overall composition and lighting are outstanding, making it a high-quality visual representation of a deep cleaning service.",
+      "file_name": "professional-kitchen-deep-cleaning-service.jpg",
+      "caption": "A smiling Asian woman, dressed in a white polo shirt, black apron, and blue rubber gloves, meticulously cleans a light wooden kitchen countertop with a yellow microfiber cloth. The bright, modern kitchen features white walls, a black rail with hanging utensils, and organized dishware, suggesting a professional deep cleaning service in progress.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional kitchen deep cleaning service in progress",
+    "image_info": {
+      "url": "https://totalcommercialsolutions.ca/wp-content/uploads/2020/04/AdobeStock_327056775-846x564.jpeg",
+      "file_path": "/workspace/imgs/professional_kitchen_deep_cleaning_service.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 42909,
+      "width": 846,
+      "height": 564,
+      "total_pixels": 477144,
+      "basic_score": 0.8440078657397057
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant, clearly depicting a person in what appears to be a professional uniform and gloves performing a thorough cleaning of a kitchen countertop and stove. The focus on the detailed cleaning action aligns well with 'deep cleaning service.' It is very clear, well-composed, and free of any watermarks.",
+      "file_name": "professional_kitchen_deep_cleaning_service.jpg",
+      "caption": "A close-up shot of a professional cleaner wearing a blue uniform and bright green rubber gloves, meticulously wiping down a black kitchen countertop and stovetop with a light blue microfiber cloth. Another hand, also gloved, holds a spray bottle in the background, with a kitchen sink and knife block visible.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional kitchen deep cleaning service in progress",
+    "image_info": {
+      "url": "https://cdn.prod.website-files.com/60eece3229f951ea48ce43b4/6614dc177c4fb7a48889b609_how-to-deep-clean-your-kitchen-in-10-steps.jpg",
+      "file_path": "/workspace/imgs/professional-kitchen-deep-cleaning-service-woman.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 102831,
+      "width": 1300,
+      "height": 866,
+      "total_pixels": 1125800,
+      "basic_score": 0.9324600329708892
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is highly relevant to both the search query and prompt, clearly depicting a professional cleaner engaged in deep cleaning a kitchen countertop. The uniform, gloves, and focused action convey a professional service in progress. The image boasts excellent clarity, natural lighting, and no watermarks, contributing to its high overall quality and suitability for professional use.",
+      "file_name": "professional-kitchen-deep-cleaning-service-woman.jpg",
+      "caption": "A smiling professional cleaning service worker, dressed in a blue uniform, grey apron, yellow rubber gloves, and a white headscarf, meticulously wipes down a wooden kitchen countertop with a blue microfiber cloth and a spray bottle. The bright and clean kitchen features light wooden blinds, white cabinets, and various kitchen accessories in the background, illustrating efficient and thorough deep cleaning.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
